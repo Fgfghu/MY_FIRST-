@@ -1,15 +1,32 @@
 In# MY_FIRST-
-# MY FIRST REPOSITORY
->This repository reports on the bioinformatics workshop that took place at Laikipia University.
-The workshop started on Monday 23- Friday 27.
-Activities of the workshop included.
-1. Day One
-### Installtion of softwares
- - Git bash
- - R base
- - R studio
-2. Day Two
-### Using the command line with Git bash on Windows OS
-3. Day Three
-### Introduction to Git and creating **repository**
+# Bioinformatics Workshop - Laikipia University
+>This repository contains the event done during the workshop that was done as from Monday 23- Friday27.
+There were a range of activities done during the Workshop.
+## Day One
+1. Installation of softwares
+- Git Bash
+- R Base
+- R Studio
+## Day Two
+**Introduction to command line**
+1. Introduction to shell
+Why shell is important and why it is useful
+2. Navigating files and directories
+- ls- list
+- pwd- print working directory
+- cd- change directory
+- rm- delete file
+- rm -r- delete directory
+- cp- copy 
+- mv- move file
+### Reading Materials
+- [Carpentries resourses]( https://swcarpentry.github.io/shell-novice/)
+## Day Three
+Version control use of Git hub and its application.
+- Creating a Git Hub account
+- Creating a repository
+
+
+
+
 
